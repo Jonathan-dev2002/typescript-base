@@ -1,0 +1,2 @@
+start project = "tsc --init"
+run file = "tsc app.ts"
